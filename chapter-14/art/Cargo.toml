@@ -3,5 +3,7 @@ name = "sesolaga-art"
 version = "0.1.0"
 authors = ["sesolaga"]
 edition = "2024"
+description = "Just testing publishing to crates.io"
+license = "MIT"
 
 [dependencies]
